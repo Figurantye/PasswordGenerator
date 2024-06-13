@@ -11,3 +11,12 @@ function senha(length, specialChar) {
     return password;
 }
 console.log(senha(10, true));
+
+
+
+
+
+
+
+
+C:\Users\Aluno\Desktop\2024-06-13 11_34_33-senha.js - PasswordGenerator - Visual Studio Code.png

@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.input-group {
+    margin-bottom: 10px;
+}
+
+label {
+    margin-right: 10px;
+}
+
+input[type="number"] {
+    width: 50px;
+    padding: 5px;
+}
+
+button {
+    padding: 8px 16px;
+    margin: 10px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+#passwordField {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+#copyBtn {
+    background-color: #28a745;
+}
+
+#copyBtn:hover {
+    background-color: #218838;
+}

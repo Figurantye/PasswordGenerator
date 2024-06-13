@@ -16,7 +16,7 @@ caso queira caracteres especiais na senha, escreva "true", e caso não queira, e
 tudo isso dentro do próprio código.
 
 ```bash
-console.log(senha(10, true));
+console.log(senha(10, true))
 ```
 
 Exemplo de saída:
